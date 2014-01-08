@@ -1,0 +1,53 @@
+html, body {
+	width:100%;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+body {
+      background-image: url(white_tiles.png);
+    }
+.header {
+	margin-top: 0px;
+	background: white;
+	height: 95px;
+	width: 100%;
+	box-shadow: 5px 5px 10px #888888;
+	background: linear-gradient(#e5e5e5, #ffffff);
+	position: fixed;
+}
+.logo {
+	padding-left: 130px;
+	height:94px; 
+	float: left;
+}
+.susisiekti {
+	color: #272727;
+	font-family: calibri;
+	font-size: 20px;
+	margin-left: 780px;
+	margin-top: 38px;
+}
+.info {
+	position: fixed;
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 230px;
+	height: 20px;
+	width: 800px;
+	color: #272727;
+	font-family: calibri;
+	font-size: 20px;
+}
+.akumai {
+	padding-top: 140px;
+	margin-left: 230px;
+	border: 1px;
+	border-style: solid;
+	border-color: #C0C0C0;
+	height: 1000px;
+	width: 900px;
+	background-color: white;
+	box-shadow: -1px 0px 2px 0px #888888, 1px 0px 2px 0px #888888;
+}
+

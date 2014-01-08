@@ -1,0 +1,15 @@
+html,body{
+	width:100%;
+	text-align: center;
+}
+
+img {
+	position: relative;
+	text-align: center;
+}
+
+h1 {
+	color: #323232;
+	font-family: calibri;
+	text-align: center;
+}
